@@ -1,6 +1,6 @@
-# Grainger Applied AI Interview
+# Grainger Take Home Assignment
 
-This repository contains a solution for Grainger Applied AI take-home interview assignment.
+This repository contains a solution for Grainger take-home interview assignment.
 
 ## Project Structure
 
