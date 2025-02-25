@@ -46,10 +46,8 @@ python main.py
 The `prompt_store.py` contains stored prompts used in the project. You can modify or extend them as needed.
 
 ## Notes
-- Ensure you have Python installed (preferably 3.8 or later).
+- Ensure you have Python installed (preferably 3.10 or later).
 - If any additional dependencies are required, add them to `requirements.txt`.
 
-## License
-This project is for interview purposes and does not have a specified license.
 
 
