@@ -1,6 +1,6 @@
 # Grainger Applied AI Interview
 
-This repository contains a project for the Grainger Applied AI interview process. It includes scripts for generating a dataset, processing it, and storing prompts used in the workflow.
+This repository contains a solution for Grainger Applied AI take-home interview assignment.
 
 ## Project Structure
 
@@ -50,12 +50,10 @@ python main.py
 ```
 
 ### 7. Utilize the Prompt Store
-The `prompt_store.py` contains stored prompts used in the project. You can modify or extend them as needed.
+The `prompt_store.py` contains stored prompts used in the project. 
 
 ## Notes
 - Ensure you have Python installed (preferably 3.10 or later).
 - If any additional dependencies are required, add them to `requirements.txt`.
-
-
 
 
